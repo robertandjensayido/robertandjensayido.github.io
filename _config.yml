@@ -1,0 +1,74 @@
+# Build settings
+markdown: kramdown ## redcarpet
+highlighter: pygments
+gems:
+##  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Amezquita Wedding"
+description: > # this means to ignore newlines until "email:"
+   Robert & Jen Say I Do
+
+email: wedding@robertandjensayido.com
+
+#blog logo
+logo: "/assets/images/logo_rj-01.jpg"
+
+# blog cover
+cover: "/assets/images/homepage.jpg"
+
+# author attributes
+name: 'Robert Amezquita & Jennifer Delizo'
+author: 'Robert Amezquita & Jennifer Delizo'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+## url: "http://0.0.0.0:4000" # base hostname & protocol for your site ## dev
+url: http://www.robertandjensayido.com
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@raarjr'
+twitter_handle: '@_jenfo'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/raarjr
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	twitter
+    url:	https://twitter.com/_jenfo
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  # - icon:	github
+  #   url:	https://github.com/robertamezquita
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
