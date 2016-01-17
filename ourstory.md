@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Our Story"
-date:   2016-09-10 14:34:25
+date:   2015-09-10 14:34:25
 categories: personal feature
 tags: featured
-image: /assets/images/ourstory_background.JPG
+image: /assets/images/ourstory_background.jpg
 permalink: /ourstory/
 ---
 
