@@ -6,9 +6,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Amezquita Wedding"
+title: "Robert & Jen Say I Do"
 description: > # this means to ignore newlines until "email:"
-   Robert & Jen Say I Do
+   Jennifer Delizo & Robert Amezquita Wedding
 
 email: wedding@robertandjensayido.com
 
@@ -23,7 +23,7 @@ name: 'Robert Amezquita & Jennifer Delizo'
 author: 'Robert Amezquita & Jennifer Delizo'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate: 5
 
 ## url: "http://0.0.0.0:4000" # base hostname & protocol for your site ## dev
 url: http://www.robertandjensayido.com

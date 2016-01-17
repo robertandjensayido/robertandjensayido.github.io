@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Registry"
-date:   2015-10-11 14:34:25
+date:   2015-09-10 14:34:25
 categories: personal feature
 tags: featured
 image: /assets/images/registry_background.jpg
