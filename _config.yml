@@ -4,6 +4,7 @@ highlighter: pygments
 gems:
 ##  - jemoji
   - jekyll-paginate
+  - minitest
 
 # Site settings
 title: "Robert & Jen Say I Do"

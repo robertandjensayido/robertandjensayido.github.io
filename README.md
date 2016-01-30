@@ -1,6 +1,6 @@
 Wedding site for robert and jen, based off the template below.
 
-TEst changes.
+Test changes.
 
 mediator
 ========
