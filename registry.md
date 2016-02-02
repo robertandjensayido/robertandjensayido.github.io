@@ -4,7 +4,7 @@ title:  "Registry"
 date:   2015-09-10 14:34:25
 categories: personal feature
 tags: featured
-image: /assets/images/registry_back.jpg
+image: /assets/images/registry_background.jpg
 permalink: /registry/
 ---
 

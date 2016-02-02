@@ -9,7 +9,7 @@ image: /assets/images/gmen_background.jpg
 
 If Myspace was still around, these guys would easily be in my top 10. Meet the lucky 7 who will get to stand by my side as I wait anxiously at the altar!
 
-<center><img src="/assets/page_images/groomsmen/edo.jpg" height="300" alt="edo"></center>
+<center><img src="/assets/page_images/groomsmen/edo.jpg" height="300" alt="Edo"></center>
 **Edward: Best Man**
 "Edo" and "Robbo" have been friends since the fifth grade, when on the school field trip to Balboa Park, a younger version of Ed came up to a younger version of Rob and asked "Why the heck do you play violin?" Instead of taking offense to that question, Rob realized he had a lifelong, best friend in front of him. Through thick and thin, awkward and slightly less awkward phases of life, Rob and Ed form a fearsome duo in Cards Against Humanity. Ed hails from the land of maple leafs and moose, but you would be forgiven for thinking his motherland was Russia after a few drinks as he takes on his (in)famous Russian accent. Edo has taken his dedication to music to a new level, pursuing a PhD in composition at the University of California - Los Angeles.
 
