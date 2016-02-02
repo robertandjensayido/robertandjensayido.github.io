@@ -9,7 +9,7 @@ image: /assets/images/engagement_background.jpg
 
 Having been engaged for a year, it was about time to take the next big step in our relationship: engagement photos.
 
-It was such a fun experience, and we had such a great time with our photographer, Dave, from [ABM Wedding Photography](http://www.abmweddingphotos.com/). From the get go, he helped us get very comfortable with being shot from all angles, and spent quality time with us at two different locations - Balboa Park and the La Jolla Shores, two places that are very special to us with so many great memories that we cherish.
+It was such a fun experience, and we had such a great time with our photographer, Nick, from [ABM Wedding Photography](http://www.abmweddingphotos.com/). From the get go, he helped us get very comfortable with being shot from all angles, and spent quality time with us at two different locations - Balboa Park and the La Jolla Shores, two places that are very special to us with so many great memories that we cherish.
 
 But as they say, pictures say a thousand words, so here is the link to the Facebook photo album for your perusal! Enjoy ~
 
