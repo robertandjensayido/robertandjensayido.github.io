@@ -7,9 +7,9 @@ categories: Wedding Posts
 image: /assets/images/gmen_background.jpg
 ---
 
-If Myspace was still around, these guys would easily be in my top 10. Meet the lucky 7 who could get to stand by my side as I wait anxiously at the altar!
+If Myspace was still around, these guys would easily be in my top 10. Meet the lucky 7 who will get to stand by my side as I wait anxiously at the altar!
 
-<center><img src="/assets/page_images/groomsmen/edo.jpg" height="300" alt="edo"></center>
+<center><img src="/assets/page_images/groomsmen/edo.jpg" height="300" alt="Edo"></center>
 **Edward: Best Man**
 "Edo" and "Robbo" have been friends since the fifth grade, when on the school field trip to Balboa Park, a younger version of Ed came up to a younger version of Rob and asked "Why the heck do you play violin?" Instead of taking offense to that question, Rob realized he had a lifelong, best friend in front of him. Through thick and thin, awkward and slightly less awkward phases of life, Rob and Ed form a fearsome duo in Cards Against Humanity. Ed hails from the land of maple leafs and moose, but you would be forgiven for thinking his motherland was Russia after a few drinks as he takes on his (in)famous Russian accent. Edo has taken his dedication to music to a new level, pursuing a PhD in composition at the University of California - Los Angeles.
 
@@ -31,7 +31,7 @@ Akshay is a true friend, one who speaks deeply from the heart with you one momen
 
 <center><img src="/assets/page_images/groomsmen/stefan.jpg" height="300" alt="Stefan"></center>
 **Stefan: Groomsman**
-Stefanabanana is a fellow prisoner of PhD studies at Yale University, hailing from the beautiful coast of Florida. Stefan and Rob met after Rob came up to him and a group of other computational biologists commenting about how cool they were, and what classes they were taking. Little did they know that they would end up joining the Kleinstein lab together. After countless hours in a row at hackathons, teaching events, and other group projects, and weekends seeing more of each other than their significant others, somehow, Rob and Stefan are still the best of friends and partners - mostly thanks to Stefan's immense amount of patience with Rob when he throws up crazy-stupid ideas. Partners in crime in solving everything from online learning, to predicting patient readmissions, and finding you a super sweet flight deal from JetBlue, Stefan is a member of the Kleinstein lab in the Computational Biology & Bioinformatics program, and together with Rob they will persevere through to the bittersweet end of the PhD! 
+Stefanabanana is a fellow prisoner of PhD studies at Yale University, hailing from the beautiful coast of Florida. Stefan and Rob met after Rob came up to him and a group of other computational biologists commenting about how cool they were, and what classes they were taking. Little did they know that they would end up joining the Kleinstein lab together. After countless hours in a row at hackathons, teaching events, and other group projects, and weekends seeing more of each other than their significant others, somehow, Rob and Stefan are still the best of friends and partners - mostly thanks to Stefan's immense amount of patience with Rob when he throws up crazy-stupid ideas. Partners in crime in solving everything from online learning, to predicting patient readmissions, and finding you a super sweet flight deal from JetBlue, Stefan is a member of the Kleinstein lab in the Computational Biology & Bioinformatics program, and together with Rob they will persevere through to the bittersweet end of the PhD!
 
 <center><img src="/assets/page_images/groomsmen/mikey.jpg" height="300" alt="Mikey"></center>
 **Mikey: Groomsman**
