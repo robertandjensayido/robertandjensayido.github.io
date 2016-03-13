@@ -11,7 +11,7 @@ San Diego boasts one of the top vacation spots. With gorgeous weather all year r
 
 ## Lodging
 
-Lodging options will be announced shortly - stay tuned!
+
 
 
 ## Robert's San Diego Suggestions
