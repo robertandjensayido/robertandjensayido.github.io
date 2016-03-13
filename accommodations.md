@@ -14,9 +14,6 @@ San Diego boasts one of the top vacation spots. With gorgeous weather all year r
 ###Courtyard Marriott San Diego Airport/Liberty Station
 
 Located in Liberty Station, the [Courtyard Marriott](http://www.marriott.com/hotels/travel/sanal-courtyard-san-diego-airport-liberty-station/) offers great amenities and the convenience of being across from Admiral Kidd. The last day to make a reservation for Courtyard is Aug 9. You can also call (800) 321-2211 and reference "Delizo Amezquita Wedding" or group code “DLA”.
-[Click here to book!](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Delizo%20Amezquita%20Wedding%5Esanal%60dladlaa%7Cdladlab%60179-189%60USD%60false%604%609/9/16%609/11/16%608/9/16&app=resvlink&stop_mobi=yes)
-
-
 
 
 ###Hilton San Diego Airport/Harbor Island
