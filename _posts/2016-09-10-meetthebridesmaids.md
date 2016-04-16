@@ -7,7 +7,7 @@ date:   2015-09-10 14:34:25
 image: /assets/images/bmaids_background.jpg
 ---
 
-There's no way Jen could say her I Do's without these amazing ladies. These beautiful bridesmaids have been there for all important stages of life. The stunning seven are not only down-to-earth and fun to be around, they're hardworking go-getters who excel in life. Get to know the bridal party!
+There's no way Jen could say her I Do's without these amazing ladies. These beautiful bridesmaids have been there for all stages of life and are not only down-to-earth and fun to be around, they're hardworking go-getters who excel in life. Get to know the stunning seven!
 
 <center><img src="/assets/page_images/bridesmaids/Siyi.jpg"></center>
 
