@@ -7,7 +7,7 @@ categories: Wedding Posts
 image: /assets/images/gmen_background.jpg
 ---
 
-If Myspace was still around, these guys would easily be in my top 10. Meet the lucky 7 who will get to stand by my side as I wait anxiously at the altar!
+If Myspace was still around, these guys would easily be in my top 8. Meet the lucky 7 who will get to stand by my side as I wait anxiously at the altar!
 
 <center><img src="/assets/page_images/groomsmen/edo.jpg" height="300" alt="Edo"></center>
 **Edward: Best Man**
