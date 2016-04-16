@@ -19,7 +19,7 @@ There's no way Jen could say her I Do's without these amazing ladies. These beau
 
 <center><img src="/assets/page_images/bridesmaids/Christina.jpg"></center>
 
-**Christina: Bridesmaid**: Christina and Jen have known each other since they were 10, when they played on the same softball team. They remained friends throughout high school and together with Karissa, the three BFFFs have maintained a tight-knit friendship. In college, Christina and Jen were roomies at the famous "Cheddabush" house, where they continued playing softball together and laughing at all of the ridiculous things Christina says. Christina currently works as an Insurance Claims Assistant in San Diego, CA.
+**Christina: Bridesmaid**: Christina and Jen have known each other since they were 10, when they played on the same softball team. They remained friends throughout high school and together with Karissa, the three BFFFs have maintained a tight-knit friendship. In college, Christina and Jen were roomies at the famous house, "Cheddabush", where they continued playing softball together and laughing at all of the ridiculous things Christina said. Christina currently works as an Insurance Claims Assistant in San Diego, CA.
 
 <center><img src="/assets/page_images/bridesmaids/April.jpg"></center>
 
