@@ -11,15 +11,16 @@ San Diego boasts one of the top vacation spots. With gorgeous weather all year r
 
 ## Lodging
 
-###Courtyard Marriott San Diego Airport/Liberty Station
+### Courtyard Marriott San Diego Airport/Liberty Station
 
-Located in Liberty Station, the [Courtyard Marriott](http://www.marriott.com/hotels/travel/sanal-courtyard-san-diego-airport-liberty-station/) offers great amenities and the convenience of being across from Admiral Kidd. The last day to make a reservation for Courtyard is Aug 9. You can also call (800) 321-2211 and reference "Delizo Amezquita Wedding" or group code “DLA”.
+Located in Liberty Station, the [Courtyard Marriott](http://www.marriott.com/hotels/travel/sanal-courtyard-san-diego-airport-liberty-station/) offers great amenities and the convenience of being across from Admiral Kidd. Click [here] (http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Delizo%20Amezquita%20Wedding%5Esanal%60dladlaa%7Cdladlab%60179-189%60USD%60false%604%609/9/16%609/11/16%608/9/16&app=resvlink&stop_mobi=yes) to make a reservation. You can also call (800) 321-2211 and mention "Delizo Amezquita Wedding" or group code “DLA” to make your reservation. The last day to make a reservation for Courtyard is Aug 9.
 
 
-###Hilton San Diego Airport/Harbor Island
+### Hilton San Diego Airport/Harbor Island
 
-The [Hilton at Harbor Island](http://www3.hilton.com/en/hotels/california/hilton-san-diego-airport-harbor-island-SANAHHF/index.html) is located right on the gorgeous San Diego Bay. 
-More details to follow!
+The [Hilton at Harbor Island](http://www3.hilton.com/en/hotels/california/hilton-san-diego-airport-harbor-island-SANAHHF/index.html) is located right on the gorgeous San Diego Bay. Click [here] (http://www.hilton.com/en/hi/groups/personalized/S/SANAHHF-DAW-20160909/index.jhtml?WT.mc_id=POG) to make a reservation. You can also call (800) 445-8667 and mention the group code "DAW" to make your reservation. The last day to make a reservation at the Hilton is Aug 9.
+
+**More options will be posted shortly**
 
 
 ## Robert's San Diego Suggestions
