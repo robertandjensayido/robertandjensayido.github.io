@@ -2,7 +2,7 @@
 layout: post
 title:  "Meet the Men"
 author: "Robert Amezquita"
-date:   2015-09-10 14:34:25
+date:   2016-05-10 14:34:25
 categories: Wedding Posts
 image: /assets/images/gmen_background.jpg
 ---
