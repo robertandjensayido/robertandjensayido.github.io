@@ -3,7 +3,7 @@ layout: post
 title:  "Meet the 'Maids"
 author: "Jen Delizo"
 categories: Wedding Posts
-date:   2015-09-10 14:34:25
+date:   2015-05-10 14:34:25
 image: /assets/images/bmaids_background.jpg
 ---
 
