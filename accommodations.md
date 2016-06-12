@@ -20,7 +20,7 @@ Located in Liberty Station, the [Courtyard Marriott](http://www.marriott.com/hot
 
 The [Hilton at Harbor Island](http://www3.hilton.com/en/hotels/california/hilton-san-diego-airport-harbor-island-SANAHHF/index.html) is located right on the gorgeous San Diego Bay. Click [here](http://www.hilton.com/en/hi/groups/personalized/S/SANAHHF-DAW-20160909/index.jhtml?WT.mc_id=POG) to make a reservation. You can also call (800) 445-8667 and mention the group code "DAW" to make your reservation. The last day to make a reservation at the Hilton is Aug 9.
 
-**More options will be posted shortly**
+If these lodging options don't work for your stay, it's not a problem! There are plenty of hotels and lodging options in San Diego.
 
 
 ## Robert's San Diego Suggestions
@@ -29,7 +29,7 @@ The [Hilton at Harbor Island](http://www3.hilton.com/en/hotels/california/hilton
 **Must -Eat- Drink:** San Diego has something for everyone, but really shines when it comes to its breweries. With the highest density of breweries in the United States, you are a stone's throw away from a world class brewery, and will likely need a wonderful, selfless individual to be a designated driver and a liver of steel to even imbibe a fraction of it all. Some favorites of mine, in no particular order, include Alesmith, Archers, Ballast Point, Green Flash, and more..
 
 ## Jen's San Diego Suggestions
-**Must See:** [Coronado Island.](http://coronadovisitorcenter.com/) It's one of my favorite places ever! Be sure to walk around downtown, along Orange Avenue, and peek into some of the shops there. Stop by MooTime Creamery for some of the best ice cream around! Of course, a trip to Coronado wouldn't be complete without a visit to the historic Hotel Del Coronado. The iconic red roof, with the timeless architecture and interior design will make you fall in love with the Del. As you walk the grounds, you eventually make your way to the beach, where you're greeted with the sweet smell of the Pacific. Coronado is definitely a must see while in San Diego!
+**Must See:** [Coronado Island.](http://coronadovisitorcenter.com/) It's one of my favorite places! Be sure to walk around downtown, along Orange Avenue, and peek into some of the shops there. Stop by MooTime Creamery for some of the best ice cream around! Of course, a trip to Coronado wouldn't be complete without a visit to the historic Hotel Del Coronado. The iconic red roof, with the timeless architecture and interior design will make you fall in love with the Del. As you walk the grounds, you eventually make your way to the beach, where you're greeted with the sweet smell of the Pacific. Coronado is definitely a must see while in San Diego!
 
 **Must Eat:** California Burritos! This is a no-brainer. San Diego is famous for our Mexican food, but even more famous for our delicious California Burritos - a carne asada burrito with fries inside. Don't be quick to judge until you've had a bite. While there are plenty of great places that serve our beloved CA burrito, I definitely recommend going to [Lucha Libre](http://www.tacosmackdown.com/). As featured on Man vs. Food, their Surfin California combines the decadence of surf-n-turf with the delicacy of a California burrito. Believe me, you'll be wanting to take one to go for your journey home!
 
