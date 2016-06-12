@@ -19,3 +19,5 @@ A huge thanks to my mom for continuously keeping in contact with Marlene's to en
 Thank you to my Auntie Gloria for taking the gorgeous pictures (below) of the venue! You've perfectly captured the wide variety of my facial expressions and those delicious scones!
 
 Thanks to those who traveled near and far to be with me and celebrate this momentous occasion! I am extremely grateful for your love and support.
+
+Click [here](https://goo.gl/photos/B365ZSJXnx1jUzmk8) to see all of the photos taken from my Bridal Shower!
